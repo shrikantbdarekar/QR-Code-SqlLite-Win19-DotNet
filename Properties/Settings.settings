@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QRSqlLiteWin19.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ColumnName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Location Name</Value>
+    </Setting>
+    <Setting Name="ColumnName2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fel No.</Value>
+    </Setting>
+    <Setting Name="ColumnName3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Type of Extinguisher</Value>
+    </Setting>
+    <Setting Name="ColumnName4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mfg &amp; Year</Value>
+    </Setting>
+    <Setting Name="ColumnName5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HPT</Value>
+    </Setting>
+    <Setting Name="ColumnName6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Refilled</Value>
+    </Setting>
+    <Setting Name="ColumnName7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Refill Due on</Value>
+    </Setting>
+    <Setting Name="ColumnName8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ID</Value>
+    </Setting>
+    <Setting Name="ColumnName9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ColumnName10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

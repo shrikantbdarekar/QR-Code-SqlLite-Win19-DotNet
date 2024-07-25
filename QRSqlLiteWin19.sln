@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRSqlLiteWin19", "QRSqlLiteWin19.csproj", "{F47A543E-0D67-44E1-8A8D-36AC73BA78BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QRGen19_X86", "..\QRGen19_X86\QRGen19_X86.vdproj", "{BA157B8F-09F3-415A-BDB6-E45B2DCBD837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47A543E-0D67-44E1-8A8D-36AC73BA78BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47A543E-0D67-44E1-8A8D-36AC73BA78BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47A543E-0D67-44E1-8A8D-36AC73BA78BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47A543E-0D67-44E1-8A8D-36AC73BA78BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA157B8F-09F3-415A-BDB6-E45B2DCBD837}.Debug|Any CPU.ActiveCfg = Debug
+		{BA157B8F-09F3-415A-BDB6-E45B2DCBD837}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3146B60C-CCD6-4730-84E8-571D1A95EC32}
+	EndGlobalSection
+EndGlobal
